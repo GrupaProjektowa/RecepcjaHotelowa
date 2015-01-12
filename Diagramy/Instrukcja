@@ -1,0 +1,3 @@
+W tym katalogu będziemy umieszczać diagramy, każdy RODZAJ diagramu ma być umieszczaony w nowym katalogu
+(czyli proceduralne w osobnym, przepływu danych osobno, związków i encji osobno itd.),
+a nazwa pliku z diagramem ma mówić o tym co ten diagram przedstawia, np. nazwę funkcjonalności.
